@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desk">The easiest way to order food from your faforite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets!</string>
+    <string name="slide_2_desk">Book movie tickets for oyur family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desk">Best discount on every single servise we offer!</string>
+
+    <string name="slide_4_title">World Traver</string>
+    <string name="slide_4_desk">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desk">To see the welcome slider again, goto Settings -> appas -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+</resources>
